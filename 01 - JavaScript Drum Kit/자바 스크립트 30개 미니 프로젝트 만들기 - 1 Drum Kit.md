@@ -4,6 +4,8 @@
 
 ## Drum Kit
 
+![image-20210829185226078](자바 스크립트 30개 미니 프로젝트 만들기 - 1 Drum Kit.assets/image-20210829185226078.png)
+
 * data key값으로 오디오를 불러오는 것이 핵심.
 
 * key와 audio에 대해 각 event 속성을 불러 control
