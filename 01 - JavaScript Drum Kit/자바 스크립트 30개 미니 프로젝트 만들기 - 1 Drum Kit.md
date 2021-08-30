@@ -45,3 +45,4 @@ div.classList.remove(...cls);
 // replace class "foo" with class "bar"
 div.classList.replace("foo", "bar");
 ```
+
